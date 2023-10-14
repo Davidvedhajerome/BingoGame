@@ -599,7 +599,6 @@ def New():
                 x+=1
             s+='\n'
         return s
-    root.mainloop()
 
 
     
